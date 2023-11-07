@@ -1,0 +1,1 @@
+From now on all the code from the learning sessions will be in the `Csharpsessions` folder, under a folder with a relevant name.
